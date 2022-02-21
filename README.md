@@ -1,4 +1,4 @@
-# AI_Project
+# AI_Project On Grey Image colorization
 Image colorization using CNN 
 	Main objective of image colorization is converted grey scale image (black and white) to colour image using CNN.
 
