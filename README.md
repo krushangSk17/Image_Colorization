@@ -19,11 +19,3 @@ How to run the application
 5) Paste the path in step 3 in google colab. (# Make sure the images are there)
 6) Then run each programme one after another.
 7) Click run in the results section.
-
-Developers (****)
-1. Chailcy patel
-2. Naisargi savaliya
-3. Avi shihora 
-4. Prasanna Patel
-5. Dineesha soni
-6. Krushang satani
